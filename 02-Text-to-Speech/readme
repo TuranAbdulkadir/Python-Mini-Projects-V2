@@ -1,0 +1,4 @@
+# 🗣️ Text to Speech
+Converts text input to MP3 audio using Google TTS.
+## Usage
+`pip install gTTS` then run `python main.py`
