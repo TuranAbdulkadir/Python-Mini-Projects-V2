@@ -1,27 +1,29 @@
 # 🐍 Python Mini Projects Collection
 
-Bu depo, Python yeteneklerimi geliştirmek için hazırladığım **Otomasyon, Araç ve GUI (Arayüz) projelerini** içerir. Her proje temiz kod prensiplerine uygun olarak yazılmış ve dokümante edilmiştir.
+This repository contains **Automation, Tool, and GUI (Interface) projects** I developed to improve my Python skills. Every project is written in accordance with clean code principles and is fully documented.
 
-## 📂 Proje Listesi
+## 📂 Project List
 
-| No | Proje Adı | Açıklama | Teknoloji |
+| No | Project Name | Description | Technology |
 |----|-----------|----------|-----------|
-| 01 | **Weather App** | Anlık hava durumu sorgulama aracı. | API, Requests |
-| 02 | **Text to Speech** | Metni sese çeviren (MP3) dönüştürücü. | gTTS |
-| 03 | **Speed Test** | İnternet indirme/yükleme hızını ölçer. | Speedtest-cli |
-| 04 | **Digital Clock** | Modern arayüzlü dijital saat. | Tkinter (GUI) |
-| 05 | **PDF Merger** | PDF dosyalarını tek dosyada birleştirir. | PyPDF2 |
-| 06 | **Wiki Bot** | Wikipedia'dan konu özeti çeker. | Wikipedia API |
-| 07 | **Currency Converter** | Canlı Dolar/TL kurunu gösterir. | API, JSON |
-| 08 | **Mini Notepad** | Dosya kaydetme özellikli not defteri. | Tkinter |
-| 09 | **YT Downloader** | Videolardan ses dosyası (MP3) indirir. | Pytubefix |
-| 10 | **Dice Roller** | Rastgele zar atma simülatörü. | Random, GUI |
-| 11 | **BMI Calculator** | Vücut Kitle İndeksi hesaplar. | Math, Logic |
-| 12 | **Number Guess** | Sayı tahmin oyunu. | Random, Loops |
-| 13 | **RPS Game** | Taş Kağıt Makas oyunu. | Game Logic |
-| 14 | **Countdown Timer** | Geri sayım aracı. | Time module |
-| 15 | **Unit Converter** | Birim çevirme aracı. | Functions |
+| 01 | **Weather App** | Real-time weather query tool. | API, Requests |
+| 02 | **Text to Speech** | Text-to-speech (MP3) converter. | gTTS |
+| 03 | **Speed Test** | Measures internet download/upload speed. | Speedtest-cli |
+| 04 | **Digital Clock** | Digital clock with a modern interface. | Tkinter (GUI) |
+| 05 | **PDF Merger** | Merges multiple PDF files into one. | PyPDF2 |
+| 06 | **Wiki Bot** | Fetches topic summaries from Wikipedia. | Wikipedia API |
+| 07 | **Currency Converter** | Shows live USD/TRY exchange rates. | API, JSON |
+| 08 | **Mini Notepad** | Notepad with file save capabilities. | Tkinter |
+| 09 | **YT Downloader** | Downloads audio (MP3) from videos. | Pytubefix |
+| 10 | **Dice Roller** | Random dice rolling simulator. | Random, GUI |
+| 11 | **BMI Calculator** | Body Mass Index calculator. | Math, Logic |
+| 12 | **Number Guess** | Number guessing game. | Random, Loops |
+| 13 | **RPS Game** | Rock Paper Scissors game. | Game Logic |
+| 14 | **Countdown Timer** | Countdown tool. | Time module |
+| 15 | **Unit Converter** | Unit conversion tool. | Functions |
 
 ---
-### 🛠️ Kurulum & Çalıştırma
-Her projenin kendi klasörü içinde detaylı `README.md` dosyası ve kurulum talimatları bulunmaktadır. İncelemek istediğiniz klasöre giderek ilgili scripti çalıştırabilirsiniz.
+### 🛠️ Installation & Execution
+Each project contains a detailed `README.md` file and installation instructions inside its folder. You can navigate to the folder of the project you want to explore and run the relevant script.
+
+*Note: For the Turkish version of this README, please refer to [README_TR.md](README_TR.md).*
